@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nawar Almuohi | Portfolio</title>
+</head>
+<body>
 
     <h1>Nawar Almuohi</h1>
     <h2>Computer Science Student</h2>
@@ -31,3 +36,5 @@
     <h3>Contact</h3>
     <p>almuohi.nawar@gmail.com</p>
 
+</body>
+</html>
